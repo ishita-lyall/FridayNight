@@ -10,3 +10,9 @@ A website made using the Django framework where tribals can promote, market, and
 ![Home page](https://github.com/ishita-lyall/FridayNight/blob/master/Desktop/test/Screenshots/homepage2.png)
 ![Home page](https://github.com/ishita-lyall/FridayNight/blob/master/Desktop/test/Screenshots/homepage3.png)
 *Screenshots of the home page*
+
+![Login page](https://github.com/ishita-lyall/FridayNight/blob/master/Desktop/test/Screenshots/login.png)
+*The login page*
+
+![Login page](https://github.com/ishita-lyall/FridayNight/blob/master/Desktop/test/Screenshots/register.png)
+*Registeration portal*
